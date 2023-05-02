@@ -1,0 +1,12 @@
+
+body{
+    background-color: purple;
+    height:100%;
+    
+}
+
+button{
+    height:100px;
+    width:100px;
+    margin:20px;
+}
